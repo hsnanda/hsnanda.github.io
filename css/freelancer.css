@@ -145,6 +145,11 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+    
+    img.navbar-fixed-top.navbar-shrink .navbar-image {
+        width: 0.68em;
+        height: 0.88em;
+    }
 }
 
 .navbar {

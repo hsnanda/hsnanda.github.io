@@ -147,8 +147,7 @@ header .intro-text .skills {
     }
     
     img.navbar-fixed-top.navbar-shrink .navbar-image {
-        width: 0.68em;
-        height: 0.88em;
+        {max-width:100%}
     }
 }
 
